@@ -1,63 +1,76 @@
-## Preparing for a Historiography
+# Micah's Approach to Librarianship
 
 
-### Hello, I'm Micah.
+## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-micah.saxton@tufts.edu
 
 
-### What is a historiography?
+## Presentation Prompt:
+This position supports research- and curriculum-aligned services to the community of
+scholars, instructors, and students engaged in research and teaching in a number of
+academic departments, including Classics, Philosophy, and Religious Studies, and the
+programs in Early Cultures, Judaic Studies, and Medieval Studies. This position is part
+of the liaison librarian team. In our collaborative work environment, librarians use a
+service-oriented framework for collection building, instruction, and research support.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pB3xb1_gp4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Historiography explores the variety of approaches, methods, and interpretations employed by historians on a particular topic.
-
-
-### How do I prepare to write a historiography?
-
-#### Step one: Choose a topic
-A good topic is narrow enough that you are not overwhelmed with sources, but broad enough that you are able to find multiple scholarly perspectives. You can narrow or expand your topic based on the work you do in the “preliminary research” phase.
-
-#### Step two: Preliminary research
-In the preliminary research phase, you will use reference sources like encyclopedias and handbooks to gather background information on your topic. You can also use published bibliographies.
-
-Examples:
-* CREDO Reference
-* Oxford Research Encyclopedias
-* Oxford Bibliographies
-
-#### Step three: Gather sources
-* Begin with a **keyword** search in JumboSearch. Use important terms from your topic and your preliminary research.
-* Once you have a few good results, make note of the **subject terms** that have been assigned to them, this will allow you to find closely related sources.
-
-* In addition to JumboSearch, use other library databases
-    * America: History & Life
-    * JSTOR
-    * Academic Search Premier
-
-* Newspapers can also be a good source for this assignment.
-
-#### Step four: Analyze your sources
-
-##### Some general questions to ask:
-* When has this topic appeared in history?
-* How has it had different meanings at different times?
-* Is it important to any events that changed its history?
-* Are there major events that altered historical interpretations?
-
-##### Read strategically
-* Examine the title, subtitle, table of contents, and index.
-* Read the introduction and conclusion first.
-* Find 2-3 book reviews to help guide your reading.
-
-##### Take smart notes
-* Focus on information relevant to your topic.
-* Emphasize ideas over quotations.
-* Take notes in complete sentences as much as possible.
+Please describe how you will engage with and address the curricular needs of students
+and faculty in these disciplinary areas. Please include how your approach advances
+racial justice, diversity, and inclusion and creates a sense of belonging in the Library.
 
 
-### Remember, I'm here to help.
-<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
-<br>
-micah.saxton@tufts.edu
+## Relationship building is the alpha and omega of librarianship
+
+### Outreach opportunities
+* Participate in departmental colloquia
+* Participate in reading and discussion groups
+
+### Curriculum mapping as relationship building
+
+#### Understand departmental goals
+Skills emphasized in **Religious Studies**: “These skills include: close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
+
+#### Identify targeted opportunities to make connections with students
+**Philosophy** PhD: 3rd year students begin their year with a significant literature review
+
+#### Discover unique characteristics of a program's curriculum
+**Judaic Studies** may select any 1000 level course as a capstone course
+
+
+## Collection development is a community endeavor
+
+A library collection is one of the most important assets a university possesses.
+
+### Characteristics of an ideal library collection
+1. A carefully curated library collection should support the curricular needs of the institution.
+2. A carefully curated library collection should provide for the interests of the researcher.
+3. Researchers should not only see themselves represented in the collection, but they should also be able to find diverse perspectives.
+
+### How to carefully curate a library collection
+1. Balance the historic strengths of a library with emerging research materials.
+2. Collaborate with the community on collection development projects
+3. Optimize collections funds for well-rounded collections.
+
+
+## Library Instruction is most effective when it is collaborative
+The most effective library instruction occurs when it is scaffold and tailored to an assignment.
+
+### Developing course related library instruction
+1. Consult with faculty before the semester in assignment design
+2. Identify stages of the assignment when students may may need the most support and target those areas for library instruction
+3.Begin with desired outcome for each library session and from there develop the materials and activities which will accomplish that goal (Backward Design)
+4. When possible, design learning activities that appeal to multiple learning types (Universal Design for Learning)
+5.Give students an opportunity to practice what they have learned and a forum for further questions (Assessment) 
+
+### LibGuides in library instruction
+
+
+## [Research Support]
+
+### Consultations
+1. Every consultation begins with me asking what they would like to get out of our time together
+2. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
+3. During a consult my standard practice is to model how I would approach their research need
+
+Sometimes consults aren’t (only) about the research need.
+
