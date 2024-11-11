@@ -1,9 +1,11 @@
-# Micah's Approach to Librarianship
+# Librarianship as relationship building
 
 
 ## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
+micah.saxton@tufts.edu
+[Let's talk about your research!](https://tufts.libcal.com/appointments/saxton)
 
 
 ## Presentation Prompt:
@@ -21,7 +23,7 @@ racial justice, diversity, and inclusion and creates a sense of belonging in the
 
 ## Relationship building is the alpha and omega of librarianship
 
-### Outreach opportunities
+### Outreach opportunities beyond instruction
 
 ### Curriculum mapping as relationship building
 
@@ -49,8 +51,10 @@ A library collection is one of the most important assets a university possesses.
 ### How to carefully curate a library collection
 1. Balance the historic strengths of a library with emerging research materials.
 
+### How to carefully curate a library collection
 2. Collaborate with the community on collection development projects.
 
+### How to carefully curate a library collection
 3. Optimize collections funds for well-rounded collections.
 
 
@@ -60,12 +64,16 @@ The most effective library instruction occurs when it is scaffold and tailored t
 ### Developing course related library instruction
 1. Consult with faculty before the semester in assignment design.
 
+### Developing course related library instruction
 2. Identify stages of the assignment when students may may need the most support and target those areas for library instruction.
 
+### Developing course related library instruction
 3.Begin with desired outcome for each library session and from there develop the materials and activities which will accomplish that goal (Backward Design).
 
+### Developing course related library instruction
 4. When possible, design learning activities that appeal to multiple learning types (Universal Design for Learning).
 
+### Developing course related library instruction
 5.Give students an opportunity to practice what they have learned and a forum for further questions (Assessment). 
 
 ### LibGuides in library instruction
@@ -77,9 +85,18 @@ The most effective library instruction occurs when it is scaffold and tailored t
 ### Consultations
 1. Every consultation begins with me asking what they would like to get out of our time together.
 
+### Consultations
 2. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
 
+### Consultations
 3. During a consult my standard practice is to model how I would approach their research need.
 
+### Consultations
 Sometimes consults aren’t (only) about the research need.
 
+
+## Remeber, I'm here to help with your research
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
+[Let's talk about your research!](https://tufts.libcal.com/appointments/saxton)
