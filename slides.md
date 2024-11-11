@@ -94,7 +94,7 @@ The most effective library instruction occurs when it is scaffold and tailored t
 Sometimes consults aren’t (only) about the research need.
 
 
-## Remeber, I'm here to help with your research
+## Remember, I'm here to help with your research
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
 micah.saxton@tufts.edu
