@@ -22,19 +22,20 @@ racial justice, diversity, and inclusion and creates a sense of belonging in the
 ## Relationship building is the alpha and omega of librarianship
 
 ### Outreach opportunities
-* Participate in departmental colloquia
-* Participate in reading and discussion groups
 
 ### Curriculum mapping as relationship building
 
 #### Understand departmental goals
-Skills emphasized in **Religious Studies**: “These skills include: close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
+<br>
+For example, the Religious Studies department at Brown values: "...close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
 
 #### Identify targeted opportunities to make connections with students
-**Philosophy** PhD: 3rd year students begin their year with a significant literature review
+<br>
+For example, 3rd year doctoral students in the philosophy department begin their year with a significant literature review.
 
 #### Discover unique characteristics of a program's curriculum
-**Judaic Studies** may select any 1000 level course as a capstone course
+<br>
+For example, Judaic Studies undergraduates may select any 1000 level course as a capstone course.
 
 
 ## Collection development is a community endeavor
