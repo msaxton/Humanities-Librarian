@@ -27,29 +27,30 @@ racial justice, diversity, and inclusion and creates a sense of belonging in the
 
 #### Understand departmental goals
 <br>
-For example, the Religious Studies department at Brown values: "...close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
+Example: The Religious Studies department at Brown values "...close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
 
 #### Identify targeted opportunities to make connections with students
 <br>
-For example, 3rd year doctoral students in the philosophy department begin their year with a significant literature review.
+Example: 3rd year doctoral students in the Philosophy Department begin their year with a significant literature review.
 
 #### Discover unique characteristics of a program's curriculum
 <br>
-For example, Judaic Studies undergraduates may select any 1000 level course as a capstone course.
+Example: Judaic Studies undergraduates may select any 1000 level course as a capstone course.
 
 
-## Collection development is a community endeavor
+## Collection building is a community endeavor
 
 A library collection is one of the most important assets a university possesses.
 
 ### Characteristics of an ideal library collection
-1. A carefully curated library collection should support the curricular needs of the institution.
-2. A carefully curated library collection should provide for the interests of the researcher.
-3. Researchers should not only see themselves represented in the collection, but they should also be able to find diverse perspectives.
+- A carefully curated library collection should support the curricular needs of the institution as well as the individual interests of the researcher.
+- Researchers should not only see themselves represented in the collection, but they should also be able to find diverse perspectives.
 
 ### How to carefully curate a library collection
 1. Balance the historic strengths of a library with emerging research materials.
-2. Collaborate with the community on collection development projects
+
+2. Collaborate with the community on collection development projects.
+
 3. Optimize collections funds for well-rounded collections.
 
 
@@ -57,21 +58,28 @@ A library collection is one of the most important assets a university possesses.
 The most effective library instruction occurs when it is scaffold and tailored to an assignment.
 
 ### Developing course related library instruction
-1. Consult with faculty before the semester in assignment design
-2. Identify stages of the assignment when students may may need the most support and target those areas for library instruction
-3.Begin with desired outcome for each library session and from there develop the materials and activities which will accomplish that goal (Backward Design)
-4. When possible, design learning activities that appeal to multiple learning types (Universal Design for Learning)
-5.Give students an opportunity to practice what they have learned and a forum for further questions (Assessment) 
+1. Consult with faculty before the semester in assignment design.
+
+2. Identify stages of the assignment when students may may need the most support and target those areas for library instruction.
+
+3.Begin with desired outcome for each library session and from there develop the materials and activities which will accomplish that goal (Backward Design).
+
+4. When possible, design learning activities that appeal to multiple learning types (Universal Design for Learning).
+
+5.Give students an opportunity to practice what they have learned and a forum for further questions (Assessment). 
 
 ### LibGuides in library instruction
+[Sample LibGuide](https://researchguides.library.tufts.edu/recipes-early-modern-europe/getting-started)
 
 
-## [Research Support]
+## Research Support
 
 ### Consultations
-1. Every consultation begins with me asking what they would like to get out of our time together
+1. Every consultation begins with me asking what they would like to get out of our time together.
+
 2. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
-3. During a consult my standard practice is to model how I would approach their research need
+
+3. During a consult my standard practice is to model how I would approach their research need.
 
 Sometimes consults aren’t (only) about the research need.
 
