@@ -1,11 +1,10 @@
-# Librarianship as relationship building
+## Librarianship as relationship building
 
 
 ## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
 micah.saxton@tufts.edu
-[Let's talk about your research!](https://tufts.libcal.com/appointments/saxton)
 
 
 ## Presentation Prompt:
@@ -83,13 +82,13 @@ The most effective library instruction occurs when it is scaffold and tailored t
 ## Research Support
 
 ### Consultations
-1. Every consultation begins with me asking what they would like to get out of our time together.
+1. Every consultation begins with me asking what the researcher would like to get out of our time together.
 
 ### Consultations
-2. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
+2. During a consult my standard practice is to model how I would approach their research need.
 
 ### Consultations
-3. During a consult my standard practice is to model how I would approach their research need.
+3. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
 
 ### Consultations
 Sometimes consults aren’t (only) about the research need.
@@ -99,4 +98,3 @@ Sometimes consults aren’t (only) about the research need.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
 micah.saxton@tufts.edu
-[Let's talk about your research!](https://tufts.libcal.com/appointments/saxton)
