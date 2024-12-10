@@ -1,100 +1,48 @@
-## Librarianship as relationship building
+# The Evolving State of Arts & Humanities Librarianship
 
 
 ## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-micah.saxton@tufts.edu
 
 
 ## Presentation Prompt:
-This position supports research- and curriculum-aligned services to the community of
-scholars, instructors, and students engaged in research and teaching in a number of
-academic departments, including Classics, Philosophy, and Religious Studies, and the
-programs in Early Cultures, Judaic Studies, and Medieval Studies. This position is part
-of the liaison librarian team. In our collaborative work environment, librarians use a
-service-oriented framework for collection building, instruction, and research support.
-
-Please describe how you will engage with and address the curricular needs of students
-and faculty in these disciplinary areas. Please include how your approach advances
-racial justice, diversity, and inclusion and creates a sense of belonging in the Library.
+Please share your perspective on the evolving state of arts & humanities librarianship and explain how this will inform your approach to engaging with Boston University's academic mission in the role of Head Librarian for Arts & Humanities at BU.
 
 
-## Relationship building is the alpha and omega of librarianship
+## The Arts and Humanities
 
-### Outreach opportunities beyond instruction
+### The Humanities at BU
+Humanities disciplines and methods focus on human experiences through primarily critical, interpretive, or speculative lenses, as distinguished from the empirical and quantitative approaches of the natural and social sciences. [Source](https://www.bu.edu/cas/academics/undergraduate-education/humanities/)
 
-### Curriculum mapping as relationship building
+### The Arts (as I understand them)
+The Arts are expressions of human experience whether that be visual, auditory, or written.
 
-#### Understand departmental goals
-<br>
-Example: The Religious Studies department at Brown values "...close analysis of texts, images, artifacts, artistic works, and other social data; synthesis of research through written and verbal expression; interpretation of the past and contemporary social issues and communities.“
+### The Humanities (as I understand them)
+The humanities are an opportunity to engage in the expressed experience of “the other” in ways that allow us to think creatively and critically about our own experiences.
 
-#### Identify targeted opportunities to make connections with students
-<br>
-Example: 3rd year doctoral students in the Philosophy Department begin their year with a significant literature review.
+### The Humanities in Crisis
+There is a whole genre of "humanities in crisis" essays, articles, and books. The villain in these accounts is nearly always "Neoliberalism." (And rightly so.)
 
-#### Discover unique characteristics of a program's curriculum
-<br>
-Example: Judaic Studies undergraduates may select any 1000 level course as a capstone course.
+### A limerick about Neoliberalism by ChatGPT 4o mini
+Neoliberalism’s the trend,  
+Where free markets rule, no amend.  
+With privatized care,  
+And wealth in the air,  
+It’s profit, not people, they tend!
 
-
-## Collection building is a community endeavor
-
-A library collection is one of the most important assets a university possesses.
-
-### Characteristics of an ideal library collection
-- A carefully curated library collection should support the curricular needs of the institution as well as the individual interests of the researcher.
-- Researchers should not only see themselves represented in the collection, but they should also be able to find diverse perspectives.
-
-### How to carefully curate a library collection
-1. Balance the historic strengths of a library with emerging research materials.
-
-### How to carefully curate a library collection
-2. Collaborate with the community on collection development projects.
-
-### How to carefully curate a library collection
-3. Optimize collections funds for well-rounded collections.
+### Addressing the crisis
+Butler, Judith. “The Public Futures of the Humanities.” Daedalus 151, no. 3 (2022): 40–53.
 
 
-## Library Instruction is most effective when it is collaborative
-The most effective library instruction occurs when it is scaffold and tailored to an assignment.
+## Arts and Humanities Librarianship
 
-### Developing course related library instruction
-1. Consult with faculty before the semester in assignment design.
+### 1. A&H librarianship should engage critically with AI
 
-### Developing course related library instruction
-2. Identify stages of the assignment when students may may need the most support and target those areas for library instruction.
+### 2. A&H librarianship should create and promote open resources
 
-### Developing course related library instruction
-3.Begin with desired outcome for each library session and from there develop the materials and activities which will accomplish that goal (Backward Design).
+### 3. A&H librarianship should acquire and make discoverable distinctive voices in the library collection.
 
-### Developing course related library instruction
-4. When possible, design learning activities that appeal to multiple learning types (Universal Design for Learning).
+### 4. A&H librarianship should provide inclusive and targeted instruction
 
-### Developing course related library instruction
-5.Give students an opportunity to practice what they have learned and a forum for further questions (Assessment). 
-
-### LibGuides in library instruction
-[Sample LibGuide](https://researchguides.library.tufts.edu/recipes-early-modern-europe/getting-started)
-
-
-## Research Support
-
-### Consultations
-1. Every consultation begins with me asking what the researcher would like to get out of our time together.
-
-### Consultations
-2. During a consult my standard practice is to model how I would approach their research need.
-
-### Consultations
-3. Every consult ends with me asking if they have what they need for the next stage of their research. I also invite them to meet again if that would be useful for them.
-
-### Consultations
-Sometimes consults aren’t (only) about the research need.
-
-
-## Remember, I'm here to help with your research
-<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
-<br>
-micah.saxton@tufts.edu
+### 5. A&H librarianship should be collaborative in its endeavors
