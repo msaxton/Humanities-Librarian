@@ -32,17 +32,78 @@ And wealth in the air,
 It’s profit, not people, they tend!
 
 ### Addressing the crisis
-Butler, Judith. “The Public Futures of the Humanities.” Daedalus 151, no. 3 (2022): 40–53.
+"The task is to show the distinctive contribution that the humanities can make to all fields of knowledge by keeping alive values that are irreducible to both instrumentality and profitability." (Butler, 2022)
 
+### Addressing the crisis
+"The public humanities stand the best chance of accomplishing this task since it not only shows what the humanities have to offer the public sphere, but how various publics are framing what the humanities do within the university." (Butler, 2022)
+
+### Addressing the crisis
+"…Boston University is committed to generating new knowledge to benefit society." [source](https://www.bu.edu/about/mission-statement/)
 
 ## Arts and Humanities Librarianship
+1. A&H librarianship is reckoning with AI. 
+2. A&H librarianship is creating and supporting open resources.
+3. A&H librarianship is retooling the library collection.
+4. A&H librarianship is changing what library instruction looks like.
+5. A&H librarianship is increasingly collaborative.
 
-### 1. A&H librarianship should engage critically with AI
 
-### 2. A&H librarianship should create and promote open resources
+### 1. A&H librarianship is reckoning with AI
+- AI can be used strategically by A&H librarians
+- AI must also be critically examined in terms of bias, privacy, hallucinations, and copyright.
 
-### 3. A&H librarianship should acquire and make discoverable distinctive voices in the library collection.
+### 1. A&H librarianship is reckoning with AI
+- AI literacy: "[A] set of competencies that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace.” (Long & Magerko, 2020)
 
-### 4. A&H librarianship should provide inclusive and targeted instruction
+### 2. A&H librarianship is creating and supporting open resources
+- Create open educational resources
+- An Ethical Framework for Library Publishing (Library Publishing Coalition Ethical Framework Task Force, 2023))
+    - Library Publishing is Values-Based
+    - Library Publishing is both Librarianship and Publishing
+    - Library Publishing is Community-Oriented
+    - Library Publishing is Dynamic
 
-### 5. A&H librarianship should be collaborative in its endeavors
+### 2. A&H librarianship is creating and supporting open resources
+- Support Open Access publishing
+
+### 2. A&H librarianship is creating and supporting open resources
+BU Strategic Priorities:
+- "Create an intellectual destination for BU science and scholarship."
+
+### 3. A&H librarianship is retooling the library collection.
+- What is the best **format** for this kind of information?
+
+### 3. A&H librarianship is retooling the library collection.
+- To what **content** does this specific community need access?
+
+### 3. A&H librarianship is retooling the library collection
+BU Strategic Priorities:
+- Stewarding and raising resources
+
+### 4. A&H librarianship is changing what library instruction looks like
+- Inclusive instruction follows Universal Design for Learning
+    - Design multiple means of engagement
+    - Design multiple means of representation
+    - Design multiple means of expression
+
+ ### 4. A&H librarianship is changing what library instruction looks like 
+- Targeted instruction moves beyond the "one-shot" instruction session
+
+ ### 4. A&H librarianship is changing what library instruction looks like 
+ BU Strategic Priority: 
+- "Create pathways and deliver a singular, transformational educational experience"
+
+### 5. A&H librarianship is increasingly collaborative
+- Internal partnerships can aid in collection development and library instruction.
+
+### 5. A&H librarianship is increasingly collaborative
+- External partnerships allow for collective resource building and sharing.
+
+### 5. A&H librarianship is increasingly collaborative
+BU Strategic Priority:
+- "Increase impact through local and global engagement and affiliations."
+
+## Works Cited
+- Butler, J. (2022). The Public Futures of the Humanities. Daedalus, 151(3), 40–53.
+- Library Publishing Coalition Ethical Framework Task Force. (2023). An Ethical Framework for Library Publishing, Version 2.0. Atlanta, GA: Educopia.  https://doi.org/10.5703/1288284317619
+- Long, D., & Magerko, B. (2020). What is AI Literacy? Competencies and Design Considerations. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–16. https://doi.org/10.1145/3313831.3376727
