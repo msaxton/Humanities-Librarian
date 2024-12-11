@@ -13,10 +13,10 @@ Please share your perspective on the evolving state of arts & humanities librari
 ## The Arts and Humanities
 
 ### The Humanities at BU
-Humanities disciplines and methods focus on human experiences through primarily critical, interpretive, or speculative lenses, as distinguished from the empirical and quantitative approaches of the natural and social sciences. [Source](https://www.bu.edu/cas/academics/undergraduate-education/humanities/)
+Humanities disciplines and methods focus on human experiences through primarily critical, interpretive, or speculative lenses, as distinguished from the empirical and quantitative approaches of the natural and social sciences. [(Source)](https://www.bu.edu/cas/academics/undergraduate-education/humanities/)
 
 ### The Arts (as I understand them)
-The Arts are expressions of human experience whether that be visual, auditory, or written.
+The Arts are expressions of human experience whether they be visual, auditory, or written.
 
 ### The Humanities (as I understand them)
 The humanities are an opportunity to engage in the expressed experience of “the other” in ways that allow us to think creatively and critically about our own experiences.
@@ -24,7 +24,7 @@ The humanities are an opportunity to engage in the expressed experience of “th
 ### The Humanities in Crisis
 There is a whole genre of "humanities in crisis" essays, articles, and books. The villain in these accounts is nearly always "Neoliberalism." (And rightly so.)
 
-### A limerick about Neoliberalism by ChatGPT 4o mini
+### A limerick about Neoliberalism by ChatGPT 4.0 mini
 Neoliberalism’s the trend,  
 Where free markets rule, no amend.  
 With privatized care,  
@@ -40,13 +40,13 @@ It’s profit, not people, they tend!
 ### Addressing the crisis
 "…Boston University is committed to generating new knowledge to benefit society." [source](https://www.bu.edu/about/mission-statement/)
 
+
 ## Arts and Humanities Librarianship
 1. A&H librarianship is reckoning with AI. 
 2. A&H librarianship is creating and supporting open resources.
 3. A&H librarianship is retooling the library collection.
 4. A&H librarianship is changing what library instruction looks like.
 5. A&H librarianship is increasingly collaborative.
-
 
 ### 1. A&H librarianship is reckoning with AI
 - AI can be used strategically by A&H librarians
@@ -57,18 +57,13 @@ It’s profit, not people, they tend!
 
 ### 2. A&H librarianship is creating and supporting open resources
 - Create open educational resources
-- An Ethical Framework for Library Publishing (Library Publishing Coalition Ethical Framework Task Force, 2023))
-    - Library Publishing is Values-Based
-    - Library Publishing is both Librarianship and Publishing
-    - Library Publishing is Community-Oriented
-    - Library Publishing is Dynamic
 
 ### 2. A&H librarianship is creating and supporting open resources
 - Support Open Access publishing
 
 ### 2. A&H librarianship is creating and supporting open resources
-BU Strategic Priorities:
-- "Create an intellectual destination for BU science and scholarship."
+- BU Strategic Priorities:
+    - "Create an intellectual destination for BU science and scholarship."
 
 ### 3. A&H librarianship is retooling the library collection.
 - What is the best **format** for this kind of information?
@@ -77,21 +72,18 @@ BU Strategic Priorities:
 - To what **content** does this specific community need access?
 
 ### 3. A&H librarianship is retooling the library collection
-BU Strategic Priorities:
-- Stewarding and raising resources
+- BU Strategic Priorities:
+    - Stewarding and raising resources
 
 ### 4. A&H librarianship is changing what library instruction looks like
 - Inclusive instruction follows Universal Design for Learning
-    - Design multiple means of engagement
-    - Design multiple means of representation
-    - Design multiple means of expression
 
  ### 4. A&H librarianship is changing what library instruction looks like 
 - Targeted instruction moves beyond the "one-shot" instruction session
 
  ### 4. A&H librarianship is changing what library instruction looks like 
- BU Strategic Priority: 
-- "Create pathways and deliver a singular, transformational educational experience"
+ - BU Strategic Priority: 
+    - "Create pathways and deliver a singular, transformational educational experience"
 
 ### 5. A&H librarianship is increasingly collaborative
 - Internal partnerships can aid in collection development and library instruction.
@@ -100,10 +92,11 @@ BU Strategic Priorities:
 - External partnerships allow for collective resource building and sharing.
 
 ### 5. A&H librarianship is increasingly collaborative
-BU Strategic Priority:
-- "Increase impact through local and global engagement and affiliations."
+- BU Strategic Priority:
+    - "Increase impact through local and global engagement and affiliations."
 
-## Works Cited
+
+### Works Cited
 - Butler, J. (2022). The Public Futures of the Humanities. Daedalus, 151(3), 40–53.
 - Library Publishing Coalition Ethical Framework Task Force. (2023). An Ethical Framework for Library Publishing, Version 2.0. Atlanta, GA: Educopia.  https://doi.org/10.5703/1288284317619
 - Long, D., & Magerko, B. (2020). What is AI Literacy? Competencies and Design Considerations. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–16. https://doi.org/10.1145/3313831.3376727
